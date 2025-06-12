@@ -1,1 +1,1 @@
-# desafio-fullcycle-docker-nginx-node-mysql
+# comando: docker-compose up -d
